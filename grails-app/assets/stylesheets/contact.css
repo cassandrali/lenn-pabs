@@ -1,0 +1,16 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:800);
+@font-face {
+    font-family: 5yearsoldfont;
+    src: 5yearsoldfont.medium.tff;
+}
+
+.container.text-center {
+  margin: auto;
+  text-align: center;
+  /*margin-right: 20cm;*/
+  max-width: 20cm;
+  padding-bottom: 2em;
+  font-weight: 300;
+  font-family: "Open Sans", sans-serif;
+  /*padding-top: 0.1cm;*/
+}

@@ -1,0 +1,11 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400);
+@font-face {
+    font-family: 5yearsoldfont;
+    src: 5yearsoldfont.medium.tff;
+}
+
+.container.text-center {
+	display: none;
+	/*font-family: "Open Sans", sans-serif;*/
+	font-family: "5yearsoldfont";
+}

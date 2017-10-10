@@ -1,0 +1,9 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:800);
+@font-face {
+    font-family: 5yearsoldfont;
+    src: 5yearsoldfont.medium.tff;
+}
+
+main h1 {
+	font-family: "5yearsoldfont";
+}
